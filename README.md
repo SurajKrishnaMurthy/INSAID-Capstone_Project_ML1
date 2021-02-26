@@ -48,7 +48,6 @@ Doing so will help millions of developers and brand advertisers around the world
  - The Chinese manufacturing giant Xiomi leads the favorite phone devices among both males and females.
  - Samsung brand, a South Korean giant, is next most preferred phone brand after Xiomi among both males and females
  - Chinese brands are preferred by all the age-groups. For instance, Xiomi mobile phones are the most preferred handsets across all age-groups.
-<![endif]-->
 
 # Analysis on INSAID Telecom services used across markets
 
@@ -60,7 +59,7 @@ Doing so will help millions of developers and brand advertisers around the world
  - Among 7 regions, INSAID Telecom has most of the users in the states of Karnataka & Andhra Pradesh, 53% & 42% respectively.
  - Karnataka & Andhra Pradesh account for 95% of the user base which is highly concentrated. Other 5 states have negligible user base.
  - Though the states of Karnataka and Andhra Pradesh have high population (as per the consensus data) which might be one of the driving factors for more user base, INSAID Telecom has not penetrated in other potential markets.
-<![endif]-->
+
 
 ## [Figure 2] shows the distribution of the genders across 7 states/UT.
 
@@ -72,7 +71,6 @@ By analyzing the distribution of the genders (a high-level view on a type of the
  - Across all the states, INSAID Telecom has more male users than the female users
  - States of Karnataka and Andhra Pradesh which account for the major user base, have 38% & 28% respectively more male users than the female users.
 
-<![endif]-->
 
 ## **Recommendations:**
 
