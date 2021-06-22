@@ -98,3 +98,4 @@ India is home to the second largest and youngest nations in the globe. Over the 
  - Monitor visitor actions to predict likelihood of purchase, and then proactively engage these visitors with chat or targeted content. Probe for their needs and interests, and answer their questions in real time, dramatically increasing online conversions
  - Providing assistance with account registration, online bill-pay, and other processes up-front reduces contacts needed later, improves collections, and increases customer satisfaction and retention
  - Conduct an audit on Telecom infrastructure & internal systems to analyze the quality of the services across all regions and major mobile brands.
+-
